@@ -27,6 +27,6 @@ jobs:
 
             - uses: bluefireteam/flutter-gh-pages@v7
               with:
-                baseHref: /new_app/
+                baseHref: /demo_lab_8/
                 customArgs: --target="lib/main.dart"
         
